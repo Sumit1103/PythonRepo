@@ -1,6 +1,6 @@
-This Is a small Application based to control to flow and management of school database system.
-It is protected so that only principal and some special staff can access to it as it requires a id password login screen to enter the application 
-It has all the commands associate with management like viewing, updating , registering , removing of data 
+This Is a small Application based to control the flow and management of school database system.
+It is protected so that only principal and some special staff can access to it as it requires an id password login screen to enter the application 
+It has all the commands associate with management like viewing, updating , registering , removing of data of both students as well as teachers and Staff 
 functionality -
                 Mysql works at backend holding at processing data 
                 Python works at frontend to manage and fulfill user's Demand
