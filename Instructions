@@ -1,4 +1,0 @@
-This is a python Bases spam Bot 
-You need to have Pyautogui module installed on your python Environment/IDE
-                                    - In case you dont have the module installed on your system you can install it via command prompt using pip installer
-                                      pip install pyautogui
